@@ -1,5 +1,4 @@
-# primera-repo
-Primer repo creado en github
+# Repositorio app LinkMessenger
 
 ## Descripción
-Este es un repo de Mario
+Esta app permite la comunicación entre dos computadoras a travéz del puerto serial, para el cual en este caso en especifico utilice el puerto COM1 para transferir los datos
